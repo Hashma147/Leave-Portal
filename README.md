@@ -83,7 +83,7 @@ A responsive and interactive Leave Management Portal developed using HTML, CSS, 
 
 
 
--Admin Dashboard
+- Admin Dashboard
 <img width="1893" height="921" alt="Admin dashboard" src="https://github.com/user-attachments/assets/69c355c4-e5f7-492b-8cff-bfc088bbdeea" />
 
 
