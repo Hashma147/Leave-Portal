@@ -45,11 +45,15 @@ A responsive and interactive Leave Management Portal developed using HTML, CSS, 
 # 🧪 Demo Credentials (for testing)
 
 - Admin Login:
+  
  Email: admin@company.com
+
  Password: admin123
 
 - Employee Login:
+  
  Email: employee@company.com
+
  Password: emp123
 
 # 🚀 How to Run the Project
