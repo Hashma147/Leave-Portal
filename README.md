@@ -72,17 +72,26 @@ A responsive and interactive Leave Management Portal developed using HTML, CSS, 
 - Login Page
 <img width="556" height="921" alt="Leave portal login" src="https://github.com/user-attachments/assets/16d3e7e6-974a-4e73-a5ad-9f9d20f02757" />
 
+
 - Employee Dashboard
 <img width="1881" height="918" alt="Employee dashboard" src="https://github.com/user-attachments/assets/a1b65b17-e497-4911-8d91-6b688810e40a" />
+
+
 
 - Leave Application form
 <img width="1897" height="920" alt="Leave application form" src="https://github.com/user-attachments/assets/160dfe77-a27e-4582-9de3-cad2ec9b6007" />
 
+
+
 -Admin Dashboard
 <img width="1893" height="921" alt="Admin dashboard" src="https://github.com/user-attachments/assets/69c355c4-e5f7-492b-8cff-bfc088bbdeea" />
 
+
+
 - Leave History
 <img width="1892" height="923" alt="Leave history" src="https://github.com/user-attachments/assets/4d5e9559-5df2-4503-9b02-3e752ddf89d1" />
+
+
 
 - Admin Panel
 <img width="1868" height="917" alt="Admin panel" src="https://github.com/user-attachments/assets/953c5400-e1f7-4c74-bf70-d4813087d8d6" />
