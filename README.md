@@ -42,16 +42,15 @@ A responsive and interactive Leave Management Portal developed using HTML, CSS, 
 
 - LocalStorage – For data persistence (mock backend)
 
-# Structure
+# 🧪 Demo Credentials (for testing)
 
-  /hrms-portal
-│
-├── index.html           # Main HTML page
-├── styles/
-│   └── style.css        # CSS styling
-├── scripts/
-│   └── main.js          # Core JS logic
-└── assets/              # Images/icons (optional)
+- Admin Login:
+ Email: admin@company.com
+ Password: admin123
+
+- Employee Login:
+ Email: employee@company.com
+ Password: emp123
 
 # 🚀 How to Run the Project
 
